@@ -5,13 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvindk2025" alt="arvindk2025" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/arvindk2025?tab=repositories](https://github.com/arvindk2025?tab=repositories)
+- 💻   Frontend Developer, ReactJS.
+- 🎓   I'm currently studying Electronics & Communication Engineering 
+       at the IIIT, Kottayam.
+- 📝   I like to explore new technologies and develop software 
+       solutions and quick hacks.
+- ✍️   In my free time, I like to challenge myself with challenging 
+       Leetcode & GFG questions.
+- 👨‍💻  All of my projects are available at [https://github.com/arvindk2025?tab=repositories](https://github.com/arvindk2025?tab=repositories)
+- 📫  How to reach me **arvindnisha2002@gmail.com**.
 
-- 💬 Ask me about **C++, HTML,CSS ,JAVASCRIPT, REACT JS**
 
-- 📫 How to reach me **arvindnisha2002@gmail.com**
-
-- ⚡ Fun fact **In Javascript equa != equal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
