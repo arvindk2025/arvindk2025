@@ -6,7 +6,7 @@
 
 
 
-- 💻   Frontend Developer, ReactJS.
+- 💻   Full Stack Developer.
 - 🎓   I'm currently studying Electronics & Communication Engineering 
        at  IIIT, Kottayam.
 - 📝   I like to explore new technologies and develop software 
@@ -14,7 +14,7 @@
 - ✍️   In my free time, I like to challenge myself with challenging 
        Leetcode & GFG questions.
 - 👨‍💻  All of my projects are available at [https://github.com/arvindk2025?tab=repositories](https://github.com/arvindk2025?tab=repositories)
-- 📫  How to reach me:- =>   arvindnisha2002@gmail.com 
+- 📫  How to reach me:- =>   arvindk20212025@gmail.com 
 
 
 
