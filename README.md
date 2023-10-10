@@ -14,7 +14,7 @@
 - ✍️   In my free time, I like to challenge myself with challenging 
        Leetcode & GFG questions.
 - 👨‍💻  All of my projects are available at [https://github.com/arvindk2025?tab=repositories](https://github.com/arvindk2025?tab=repositories)
-- 📫  How to reach me  :- =>   arvindnisha2002@gmail.com 
+- 📫  How to reach me:- =>   arvindnisha2002@gmail.com 
 
 
 
