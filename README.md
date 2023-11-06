@@ -15,7 +15,7 @@
        Leetcode & GFG questions.
 - 👨‍💻  All of my projects are available at [https://github.com/arvindk2025?tab=repositories](https://github.com/arvindk2025?tab=repositories)
 - 📫  How to reach me:- =>   arvindk20212025@gmail.com 
-- 📝  Resume Google Drive Link:- =>    https://drive.google.com/file/d/1L4wlHdQ901u-CPFqr7DmIVGyd7qPz7DL/view?usp=sharing
+- 📝  Resume Google Drive Link:- =>      https://drive.google.com/file/d/1LsvQ264WKXvuKp7k03ZBPfBzwh4oGE4E/view?usp=sharing
 
 
 <h3 align="left">Connect with me:</h3>
