@@ -4,7 +4,7 @@
 
 > <h3 align="left">Coding my dreams into reality, I'm a software engineering enthusiast sculpting the future of tech.</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/prabhjotschugh/Music-Notes-Generation">**`Data Science With Generative AI & Django [Python Backend]`**</a>
+- 🔭 I’m currently working on <a href="https://github.com/prabhjotschugh/Music-Notes-Generation">**`Data Science With Generative AI & Django[Python Backend]`**</a>
 
 - 📫 Always available at **[`arvindk20212025@gmail.com`](mailto:arvindk20212025@gmail.com)**
 
