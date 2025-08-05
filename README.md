@@ -10,7 +10,7 @@
 
 - ☢ My friends call me **`Debugger`**
 
-- ⚡ Enthralling Pursuits: `MERN Stack 💻` | `Generative AI 🧠✨` | `Data Science 📈📊` | `Django (Python Backend) 🐍🛠️`
+- ⚡ Enthralling Pursuits: `MERN Stack 💻` | `Generative AI 🧠` | `Data Science 📈📊` | `Django (Python Backend) 🐍🛠`
 
 <br> 
 
