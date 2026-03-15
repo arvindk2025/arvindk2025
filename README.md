@@ -20,7 +20,7 @@
 
 <div align="center">
 
-### 🔥 **CURRENTLY WORKING AT:** [`CallHub`](https://callhub.io/) - Building Outreach & Communication Platform solutions 🚀
+### 🔥 **CURRENTLY WORKING AT:** [`CallHub`](https://callhub.io/) - Building Outreach Platform + AI solutions 🚀
 ### 🎓 **B.Tech Graduate from IIIT Kottayam**
 ### 💡 **BUILDING:** `Django (Python Backend), React & Next.js, AI-Integration` ⚡
 
