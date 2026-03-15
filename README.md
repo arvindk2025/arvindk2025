@@ -22,7 +22,7 @@
 
 <br>
 
-><h3 align="left">🌟 My Tech Profiles</h3>
+><h3 align="left">🌟 My DSA(Coding) Profiles</h3>
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/arvindk_lc)
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/arvink_cf)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/arvindk_cc)
