@@ -22,7 +22,7 @@
 
 ### 🔥 **CURRENTLY WORKING AT:** [`CallHub`](https://callhub.io/) - Building Outreach & Communication Platform solutions 🚀
 ### 🎓 **B.Tech Graduate from IIIT Kottayam**
-### 💡 **BUILDING:** `Python(Django) Servers, Advanced React Patterns, AI-Integration & MCPs` ⚡
+### 💡 **BUILDING:** `Django (Python Backend), React & Next.js, AI-Integration` ⚡
 
 </div>
 
@@ -72,15 +72,16 @@
 
 **🔥 LANGUAGES**
 
-![Go](https://img.shields.io/badge/Go-06b6d4?style=for-the-badge&logo=go&logoColor=white&labelColor=1e1b4b)
+![Python](https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1b4b)
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=1e1b4b&labelColor=fbbf24)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3b82f6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1e1b4b)
 
-![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1e1b4b)
-![Python](https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1b4b)
 ![C++](https://img.shields.io/badge/C++-6366f1?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1e1b4b)
+![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1e1b4b)
 ![C](https://img.shields.io/badge/C-3b82f6?style=for-the-badge&logo=c&logoColor=white&labelColor=1e1b4b)
+![Go](https://img.shields.io/badge/Go-06b6d4?style=for-the-badge&logo=go&logoColor=white&labelColor=1e1b4b)
 ![HTML5](https://img.shields.io/badge/HTML5-ef4444?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e1b4b)
 ![CSS3](https://img.shields.io/badge/CSS3-3b82f6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1b4b)
 
@@ -102,8 +103,8 @@
 **🗄️ DATABASES & CLOUD**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e1b4b)
-![MySQL](https://img.shields.io/badge/MySQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e1b4b)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6366f1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1e1b4b)
+![MySQL](https://img.shields.io/badge/MySQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e1b4b)
 ![Firebase](https://img.shields.io/badge/Firebase-f59e0b?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=1e1b4b)
 ![AWS](https://img.shields.io/badge/AWS-f59e0b?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1e1b4b)
 ![GCP](https://img.shields.io/badge/GCP-3b82f6?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=1e1b4b)
