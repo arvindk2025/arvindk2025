@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arvindk2025&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views" />
-</div>
+</div> -->
 
 
 <h1 align="center">
