@@ -1,8 +1,8 @@
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=arvindk2025&label=Profile%20views&color=6366f1&style=for-the-badge)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arvindk2025&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=40&center=true&vCenter=true&width=700&height=100&duration=3000&lines=✨+HELLO+WORLD!+✨;⚡+I'M+ARVIND+SAHANI+⚡;💻+SOFTWARE+ENGINEER+💻;🚀+CODING+DREAMS+INTO+REALITY+🚀&color=a855f7&background=0f0f23FF" />
