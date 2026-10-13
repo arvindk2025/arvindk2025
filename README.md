@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### 🔥 **CURRENTLY WORKING AT:** [Standard Chartered Bank](https://www.sc.com/en/) — Building FinTech Platforms & BlockChain Solutions
+### 🔥 **CURRENTLY WORKING AT:** [Standard Chartered Bank](https://www.sc.com/en/) — Building FinTech Platforms 
 
 ### 🎓 **EDUCATION:** B.Tech Graduate from IIIT Kottayam
 
