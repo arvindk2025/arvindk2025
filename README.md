@@ -16,13 +16,13 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
 <div align="center">
 
-### 🔥 **CURRENTLY WORKING AT:** [`CallHub`](https://callhub.io/) - Building Outreach Platform + AI solutions 🚀
-### 🎓 **B.Tech Graduate from IIIT Kottayam**
-### 💡 **BUILDING:** `Django (Python Backend), React & Next.js, AI-Integration` ⚡
+### 🔥 **CURRENTLY WORKING AT:** [Standard Chartered Bank](https://www.sc.com/en/) — Building FinTech Platforms & BlockChain Solutions
+
+### 🎓 **EDUCATION:** B.Tech Graduate from IIIT Kottayam
+
+### 💡 **ENGINEERING FOCUS:** `Java, Spring Boot, Microservices, Distributed Systems` ⚡
 
 </div>
 
@@ -72,14 +72,14 @@
 
 **🔥 LANGUAGES**
 
-![Python](https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1b4b)
+![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1e1b4b)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=1e1b4b&labelColor=fbbf24)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3b82f6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1e1b4b)
 
 ![C++](https://img.shields.io/badge/C++-6366f1?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1e1b4b)
-![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1e1b4b)
+![Python](https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1b4b)
 ![C](https://img.shields.io/badge/C-3b82f6?style=for-the-badge&logo=c&logoColor=white&labelColor=1e1b4b)
 ![Go](https://img.shields.io/badge/Go-06b6d4?style=for-the-badge&logo=go&logoColor=white&labelColor=1e1b4b)
 ![HTML5](https://img.shields.io/badge/HTML5-ef4444?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e1b4b)
@@ -160,7 +160,7 @@
 ```ascii
 ╭─────────────────────────────────────────────────────────────╮
 │    ⚡ "CODING MY DREAMS INTO REALITY, ONE LINE AT A TIME"   │
-│        ~ Arvind Sahani • Software Engineer @ CallHub ~       │
+│        ~ Arvind Sahani • Software Engineer @ Standard Charted Bank ~       │
 ╰─────────────────────────────────────────────────────────────╯
 ```
 
